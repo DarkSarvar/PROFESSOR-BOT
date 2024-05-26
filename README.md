@@ -2,7 +2,7 @@
 <p align="center">
 
 <h1 align="center">
-  <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
+  <b> DarkSarvar </b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
@@ -116,6 +116,7 @@ ban_user  - to ban a user.
 unban_user  - to unban a user.
 channel - to get list of total connected channels
 broadcast - to broadcast a message to all Eva Maria users
+index - to get from the db
 ```
 
 </details>
